@@ -24,12 +24,12 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "Which of the following is correct about JavaScript?",
-a: "JavaScript is an Object-Based language",
-b: "JavaScript is Assembly-language",
-c: "JavaScript is an Object-Oriented language",
-d: "JavaScript is a High-level language",
-        correct: "a",
+        question: "Who was the first President of India?",
+a: "Mahatma Gandhi",
+b: "Jawaharlal Nehru",
+c: "Dr. Rajendra Prasad",
+d: "Dr. B. R. Ambedkar",
+        correct: "c",
     },
 ];
 
